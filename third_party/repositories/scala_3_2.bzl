@@ -181,7 +181,7 @@ artifacts = {
     },
     "com_thesamet_scalapb_lenses": {
         "artifact": "com.thesamet.scalapb:lenses_3:0.11.13",
-        "sha256": "10830d6511fc21b997c4acdde6f6700e87ee6791cbe6278f5acd7b352670a88f",
+        "sha256": "6ced2dbaec429ffb25f1fbb880b0d5a883526a5b465b98c80e58bdc81ec04880",
         "deps": [
             "@io_bazel_rules_scala_scala_library",
         ],
