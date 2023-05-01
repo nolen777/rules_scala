@@ -317,11 +317,11 @@ artifacts = {
         ],
     },
     "scala_proto_rules_scalapb_plugin": {
-        "artifact": "com.thesamet.scalapb:compilerplugin_2.13:0.9.7",
+        "artifact": "com.thesamet.scalapb:compilerplugin_3:0.11.13",
         "sha256": "ac29c2f01b0b1e39c4226915000505643d586234d586247e1fd97133e20bcc60",
     },
     "scala_proto_rules_protoc_bridge": {
-        "artifact": "com.thesamet.scalapb:protoc-bridge_2.13:0.7.14",
+        "artifact": "com.thesamet.scalapb:protoc-bridge_3:0.7.14",
         "sha256": "0704f2379374205e7130018e3df6b3d50a4d330c3e447ca39b5075ecb4c93cd1",
     },
     "scala_proto_rules_scalapb_runtime": {
@@ -333,11 +333,11 @@ artifacts = {
         "sha256": "950984d4a3b21925d3156dd98cddb4e7c2f429aad81aa25bb5a3792d41fd7c76",
     },
     "scala_proto_rules_scalapb_lenses": {
-        "artifact": "com.thesamet.scalapb:lenses_2.13:0.9.7",
+        "artifact": "com.thesamet.scalapb:lenses_3:0.11.13",
         "sha256": "5f43b371b2738a81eff129fd2071ce3e5b3aa30909de90e6bb6e25c3de6c312d",
     },
     "scala_proto_rules_scalapb_fastparse": {
-        "artifact": "com.lihaoyi:fastparse_2.13:2.1.3",
+        "artifact": "com.lihaoyi:fastparse_3:0.11.13",
         "sha256": "5064d3984aab8c48d2dbd6285787ac5c6d84a6bebfc02c6d431ce153cf91dec1",
     },
     "scala_proto_rules_grpc_core": {
