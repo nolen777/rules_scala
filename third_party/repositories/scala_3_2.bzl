@@ -325,11 +325,11 @@ artifacts = {
         "sha256": "0704f2379374205e7130018e3df6b3d50a4d330c3e447ca39b5075ecb4c93cd1",
     },
     "scala_proto_rules_scalapb_runtime": {
-        "artifact": "com.thesamet.scalapb:scalapb-runtime_2.13:0.9.7",
-        "sha256": "8026485011c53d35eb427ac5c09ed34c283b355d8a6363eae68b3f165bee34a0",
+        "artifact": "com.thesamet.scalapb:scalapb-runtime_3:0.11.13",
+        "sha256": "4d17f874f06a5d9171cb6c41347a2b2906f4448a60d48aa8df4153abef23022f",
     },
     "scala_proto_rules_scalapb_runtime_grpc": {
-        "artifact": "com.thesamet.scalapb:scalapb-runtime-grpc_2.13:0.9.7",
+        "artifact": "com.thesamet.scalapb:scalapb-runtime-grpc_3:0.11.13",
         "sha256": "950984d4a3b21925d3156dd98cddb4e7c2f429aad81aa25bb5a3792d41fd7c76",
     },
     "scala_proto_rules_scalapb_lenses": {
