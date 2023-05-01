@@ -205,8 +205,8 @@ artifacts = {
         ],
     },
     "com_lihaoyi_fastparse": {
-        "artifact": "com.lihaoyi:fastparse_2.13:2.1.3",
-        "sha256": "5064d3984aab8c48d2dbd6285787ac5c6d84a6bebfc02c6d431ce153cf91dec1",
+        "artifact": "com.lihaoyi:fastparse_3:3.0.1",
+        "sha256": "d671b2d99408bc63c5bd750d0dbbd0d0444730a63b111d058073474dc973ef57",
         "deps": [
             "@com_lihaoyi_sourcecode",
         ],
@@ -337,8 +337,8 @@ artifacts = {
         "sha256": "5f43b371b2738a81eff129fd2071ce3e5b3aa30909de90e6bb6e25c3de6c312d",
     },
     "scala_proto_rules_scalapb_fastparse": {
-        "artifact": "com.lihaoyi:fastparse_3:0.11.13",
-        "sha256": "5064d3984aab8c48d2dbd6285787ac5c6d84a6bebfc02c6d431ce153cf91dec1",
+        "artifact": "com.lihaoyi:fastparse_3:3.0.1",
+        "sha256": "d671b2d99408bc63c5bd750d0dbbd0d0444730a63b111d058073474dc973ef57",
     },
     "scala_proto_rules_grpc_core": {
         "artifact": "io.grpc:grpc-core:1.24.0",
